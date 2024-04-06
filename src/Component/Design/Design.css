@@ -1,0 +1,11 @@
+p{
+    color: #717275;
+}
+
+.design{
+    border-radius: 20px;
+    box-shadow: 0px -25px 20px -20px rgba(0,0,0,0.45),
+25px 0px 20px -20px rgba(0,0,0,0.45),
+0px 25px 20px -20px rgba(0,0,0,0.45),
+-25px 0px 20px -20px rgba(0,0,0,0.45);
+}

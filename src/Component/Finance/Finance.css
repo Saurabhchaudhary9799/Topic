@@ -1,0 +1,22 @@
+p{
+    color: #717275;
+}
+
+.design{
+    border-radius: 20px;
+    box-shadow: 0px -25px 20px -20px rgba(0,0,0,0.45),
+25px 0px 20px -20px rgba(0,0,0,0.45),
+0px 25px 20px -20px rgba(0,0,0,0.45),
+-25px 0px 20px -20px rgba(0,0,0,0.45);
+}
+
+.feature-2{
+    background-image: linear-gradient(15deg, rgb(19, 84, 122) 0%, rgb(128, 208, 199) 100%);
+    opacity: 0.85;
+}
+
+
+
+.feature-2 .learn-more{
+    background-color: #80d0c7;
+}

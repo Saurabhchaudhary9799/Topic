@@ -1,0 +1,30 @@
+.featured-section{
+    background-color: #80d0c7;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+
+/* 717275 */
+
+.feature-1 .feature-description{
+    color: #717275;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.feature-1 .feature-name{
+    font-size: 25px;
+    color: black;
+    font-weight: 700;
+}
+
+.feature-2{
+    background-image: linear-gradient(15deg, rgb(19, 84, 122) 0%, rgb(128, 208, 199) 100%);
+    opacity: 0.85;
+}
+
+
+
+.feature-2 .learn-more{
+    background-color: #80d0c7;
+}
